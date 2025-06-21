@@ -1,0 +1,47 @@
+body
+{
+     font-family:Arial,sans-serif;
+     text-align:center;
+    margin:0;
+    padding:50px;
+    background-image:url("download(8).webp");
+     background-size:100% 100%;
+    background-repeat: no-repeat; 
+}
+
+
+#result
+{
+     margin-top:30px;
+     margin-left:300px;
+     margin-right:500px;
+     font-size:18px;
+     background-color:white;
+    width:700px;
+    height:250px;
+}
+
+
+#getWeather
+{
+      width:100px;
+      height:60px;
+      background-color:rgb(135,225,240);
+}
+
+#getWeather:hover
+{
+       background-color:rgb(111,165,252);
+}
+
+#city
+{
+    width:300px;
+    height:60px;
+    background-color:white;
+}
+
+h1
+{
+     color:white;
+}
