@@ -1,4 +1,4 @@
-const apikey="REDACTED_API_KEY_1";
+const apikey="REDACTED_API_KEY_23b1e5da4ba7b3087bb04REDACTED_API_KEY_2";
 const weatherButton=document.getElementById("getWeather");
 const resultdiv=document.getElementById("result");
 
