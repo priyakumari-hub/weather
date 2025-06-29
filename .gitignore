@@ -1,2 +1,8 @@
-
-configured.js 
+.env
+.env.*
+__pycache__/
+*.pyc
+.cache_ggshield/
+*.log
+venv/
+.DS_Store
